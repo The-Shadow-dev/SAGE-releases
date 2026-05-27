@@ -1,0 +1,32 @@
+SAGE — Third-Party Notices
+==========================
+
+SAGE uses and/or bundles the following components, each under its own license.
+Their copyright and license terms remain with their respective authors.
+
+Bundled with the installer
+---------------------------
+- Fabric Loader and Fabric API — (c) FabricMC — Apache License 2.0
+  https://fabricmc.net
+
+In-game UI
+----------
+- Tabler Icons — (c) Tabler — MIT License
+  https://tabler.io/icons
+
+Launcher UI
+-----------
+- Hanken Grotesk, Martian Mono, Syne — SIL Open Font License 1.1
+  (web fonts; see https://fonts.google.com)
+- skinview3d — MIT License — https://github.com/bs-community/skinview3d
+
+Downloaded at runtime (NOT redistributed by SAGE)
+-------------------------------------------------
+- Minecraft: Java Edition — (c) Mojang Studios / Microsoft.
+  Downloaded from Mojang's official servers. SAGE is unofficial and not
+  affiliated with or endorsed by Mojang or Microsoft.
+- Mods, shaders and resource packs — downloaded from Modrinth
+  (https://modrinth.com) on demand; each remains under its author's license.
+
+Full license texts of the bundled open-source components are available from the
+project pages linked above.
