@@ -1,29 +1,21 @@
-<div align="center">
+# SAGE — Minecraft Client
 
-# SAGE
+Schlanker, schneller Client für **Minecraft: Java Edition** (Fabric) — eigener Launcher mit Auto-Update und ein In-Game-Menü mit HUD-Editor & Mod-Manager.
 
-**Schneller, cleaner Minecraft Client.**
+## Download
+Auf der **Releases**-Seite die `SAGE-Setup.exe` laden und installieren. Updates kommen danach automatisch beim Start.
 
-## ⬇️ [SAGE herunterladen](https://github.com/The-Shadow-dev/SAGE-releases/releases/latest/download/SAGE-Setup.exe)
+## Features
+- **Eigener Launcher** — lädt Minecraft + Fabric selbst, signiertes Auto-Update
+- **In-Game-Menü** — HUD-Editor, Module, Profile, Makros, Wegpunkte
+- **Mod-Manager** — Mods, Shader & Texture Packs direkt von Modrinth suchen, stöbern & versionsgenau installieren (inkl. Abhängigkeiten)
+- **Bug-Reports** — direkt aus Launcher & Spiel
 
-</div>
+## Rechtliches / Disclaimer
+SAGE ist ein **inoffizieller, kostenloser** Client und **nicht** mit Mojang Studios oder Microsoft verbunden oder von ihnen genehmigt.
 
----
+„Minecraft" ist eine Marke von Mojang Studios. Minecraft: Java Edition und seine Inhalte sind © Mojang Studios / Microsoft und werden von SAGE **nicht** verteilt, sondern zur Laufzeit von den offiziellen Servern geladen. SAGE ist und bleibt kostenlos.
 
-## Installation
+Drittanbieter-Komponenten (Fabric, Tabler Icons, Schriften, skinview3d) stehen unter ihren eigenen Lizenzen — siehe **NOTICE**. Mods/Shader/Texture-Packs werden von [Modrinth](https://modrinth.com) geladen und bleiben unter den Lizenzen ihrer Autor:innen.
 
-1. **[SAGE-Setup.exe herunterladen](https://github.com/The-Shadow-dev/SAGE-releases/releases/latest/download/SAGE-Setup.exe)** und öffnen.
-2. Zeigt Windows **„Der Computer wurde durch Windows geschützt"**?
-   → **Weitere Informationen** klicken → **Trotzdem ausführen**.
-   *(Das erscheint bei neuer Software ohne teures Zertifikat — SAGE ist sauber.)*
-3. Fertig. SAGE installiert sich und startet.
-
-## Updates
-
-SAGE **aktualisiert sich selbst.** Beim Öffnen lädt es neue Versionen automatisch und nahtlos im Hintergrund — du musst nie wieder etwas herunterladen.
-
----
-
-<div align="center">
-<sub>Hier liegt nur die Installationsdatei — <b>kein Quellcode</b>.</sub>
-</div>
+© 2026 SAGE — alle Rechte vorbehalten, siehe **LICENSE**.
